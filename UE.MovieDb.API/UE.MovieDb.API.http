@@ -1,0 +1,6 @@
+@UE.MovieDb.API_HostAddress = http://localhost:5015
+
+GET {{UE.MovieDb.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
